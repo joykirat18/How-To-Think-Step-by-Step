@@ -1,0 +1,345 @@
+{
+    "layer_16_head_24_token_<0x0A>_pos_-1": {
+        "layer_10_head_9_token_F_pos_604": {
+            "layer_1_head_1_token_pus_pos_598": {
+                "layer_0_head_25_token_pus_pos_598": {},
+                "layer_0_head_2_token_pus_pos_598": {}
+            },
+            "layer_4_head_2_token_pus_pos_598": {
+                "layer_0_head_0_token_<0x0A>_pos_9": {},
+                "layer_3_head_14_token_<0x0A>_pos_9": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {},
+                    "layer_0_head_22_token_<0x0A>_pos_9": {}
+                }
+            },
+            "layer_6_head_29_token_pus_pos_598": {
+                "layer_0_head_0_token_<s>_pos_1": {},
+                "layer_4_head_2_token_<s>_pos_1": {
+                    "layer_0_head_0_token_<s>_pos_1": {}
+                }
+            }
+        },
+        "layer_12_head_12_token_F_pos_604": {
+            "layer_0_head_15_token_is_pos_595": {},
+            "layer_11_head_27_token_is_pos_595": {
+                "layer_7_head_6_token_F_pos_593": {
+                    "layer_5_head_4_token_F_pos_593": {
+                        "layer_0_head_0_token_<s>_pos_2": {}
+                    }
+                },
+                "layer_9_head_31_token_F_pos_593": {
+                    "layer_6_head_15_token_J_pos_586": {
+                        "layer_0_head_0_token_<s>_pos_1": {}
+                    }
+                }
+            },
+            "layer_6_head_12_token_is_pos_595": {
+                "layer_1_head_11_token_is_pos_506": {
+                    "layer_0_head_12_token_<s>_pos_1": {}
+                },
+                "layer_5_head_16_token_is_pos_506": {
+                    "layer_4_head_16_token_ren_pos_505": {
+                        "layer_0_head_0_token_<s>_pos_0": {}
+                    }
+                }
+            }
+        },
+        "layer_15_head_9_token_F_pos_604": {
+            "layer_0_head_19_token_:_pos_603": {},
+            "layer_3_head_13_token_:_pos_603": {
+                "layer_1_head_27_token_or_pos_601": {
+                    "layer_0_head_14_token_or_pos_601": {}
+                },
+                "layer_2_head_16_token_or_pos_601": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                }
+            },
+            "layer_4_head_9_token_:_pos_603": {
+                "layer_3_head_17_token_false_pos_602": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                },
+                "layer_3_head_21_token_false_pos_602": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                }
+            }
+        },
+        "layer_4_head_2_token_F_pos_604": {
+            "layer_0_head_0_token_<0x0A>_pos_9": {},
+            "layer_0_head_22_token_<0x0A>_pos_9": {},
+            "layer_3_head_14_token_<0x0A>_pos_9": {
+                "layer_0_head_0_token_<0x0A>_pos_9": {},
+                "layer_0_head_22_token_<0x0A>_pos_9": {}
+            }
+        }
+    },
+    "layer_18_head_30_token_<0x0A>_pos_-1": {
+        "layer_11_head_16_token_ae_pos_594": {
+            "layer_0_head_0_token_<s>_pos_5": {},
+            "layer_4_head_2_token_<s>_pos_5": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_3_head_30_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_0_head_26_token_<s>_pos_0": {}
+                }
+            },
+            "layer_9_head_19_token_<s>_pos_5": {
+                "layer_0_head_0_token_<s>_pos_1": {},
+                "layer_4_head_2_token_<s>_pos_1": {
+                    "layer_0_head_0_token_<s>_pos_1": {}
+                }
+            }
+        },
+        "layer_12_head_19_token_ae_pos_594": {
+            "layer_0_head_0_token_<s>_pos_2": {},
+            "layer_4_head_2_token_<s>_pos_2": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_3_head_30_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_0_head_26_token_<s>_pos_0": {}
+                }
+            },
+            "layer_9_head_19_token_<s>_pos_2": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_4_head_2_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_3_head_30_token_<s>_pos_0": {
+                        "layer_0_head_0_token_<s>_pos_0": {},
+                        "layer_0_head_26_token_<s>_pos_0": {}
+                    }
+                }
+            }
+        },
+        "layer_13_head_19_token_ae_pos_594": {
+            "layer_11_head_18_token_is_pos_512": {
+                "layer_8_head_0_token_y_pos_311": {
+                    "layer_3_head_26_token_ump_pos_303": {
+                        "layer_0_head_0_token_<s>_pos_5": {}
+                    }
+                },
+                "layer_8_head_16_token_y_pos_311": {
+                    "layer_7_head_25_token_is_pos_310": {
+                        "layer_6_head_14_token_._pos_307": {
+                            "layer_5_head_22_token_Y_pos_302": {
+                                "layer_0_head_0_token_<s>_pos_3": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "layer_11_head_30_token_is_pos_512": {
+                "layer_6_head_5_token_uses_pos_502": {
+                    "layer_1_head_17_token_p_pos_501": {
+                        "layer_0_head_19_token_Input_pos_481": {}
+                    }
+                },
+                "layer_8_head_30_token_uses_pos_502": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                }
+            },
+            "layer_6_head_12_token_is_pos_512": {
+                "layer_4_head_12_token_are_pos_499": {
+                    "layer_0_head_0_token_<s>_pos_5": {}
+                },
+                "layer_4_head_2_token_are_pos_499": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                }
+            }
+        },
+        "layer_9_head_1_token_ae_pos_594": {
+            "layer_0_head_0_token_<s>_pos_5": {},
+            "layer_3_head_30_token_<s>_pos_5": {
+                "layer_0_head_0_token_<s>_pos_1": {},
+                "layer_0_head_26_token_<s>_pos_1": {}
+            },
+            "layer_4_head_2_token_<s>_pos_5": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_3_head_30_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_0_head_26_token_<s>_pos_0": {}
+                }
+            }
+        }
+    },
+    "layer_19_head_4_token_<0x0A>_pos_-1": {
+        "layer_0_head_0_token_<s>_pos_3": {},
+        "layer_13_head_22_token_<s>_pos_3": {
+            "layer_0_head_0_token_<s>_pos_0": {},
+            "layer_4_head_2_token_<s>_pos_0": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_3_head_30_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_0_head_26_token_<s>_pos_0": {}
+                }
+            },
+            "layer_9_head_19_token_<s>_pos_0": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_4_head_2_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_3_head_30_token_<s>_pos_0": {
+                        "layer_0_head_0_token_<s>_pos_0": {},
+                        "layer_0_head_26_token_<s>_pos_0": {}
+                    }
+                }
+            }
+        },
+        "layer_14_head_19_token_<s>_pos_3": {
+            "layer_0_head_0_token_<s>_pos_0": {},
+            "layer_13_head_22_token_<s>_pos_0": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_4_head_2_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_3_head_30_token_<s>_pos_0": {
+                        "layer_0_head_0_token_<s>_pos_0": {},
+                        "layer_0_head_26_token_<s>_pos_0": {}
+                    }
+                }
+            },
+            "layer_4_head_2_token_<s>_pos_0": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_3_head_30_token_<s>_pos_0": {
+                    "layer_0_head_0_token_<s>_pos_0": {},
+                    "layer_0_head_26_token_<s>_pos_0": {}
+                }
+            }
+        },
+        "layer_4_head_2_token_<s>_pos_3": {
+            "layer_0_head_0_token_<s>_pos_0": {},
+            "layer_0_head_26_token_<s>_pos_0": {},
+            "layer_3_head_30_token_<s>_pos_0": {
+                "layer_0_head_0_token_<s>_pos_0": {},
+                "layer_0_head_26_token_<s>_pos_0": {}
+            }
+        }
+    },
+    "layer_30_head_24_token_<0x0A>_pos_-1": {
+        "layer_18_head_18_token_<0x0A>_pos_621": {
+            "layer_4_head_18_token_F_pos_593": {
+                "layer_0_head_0_token_<0x0A>_pos_9": {},
+                "layer_3_head_14_token_<0x0A>_pos_9": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {},
+                    "layer_0_head_22_token_<0x0A>_pos_9": {}
+                }
+            },
+            "layer_4_head_22_token_F_pos_593": {
+                "layer_0_head_0_token_<s>_pos_1": {},
+                "layer_3_head_30_token_<s>_pos_1": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                }
+            },
+            "layer_7_head_12_token_F_pos_593": {
+                "layer_3_head_17_token_ru_pos_409": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                },
+                "layer_6_head_13_token_ru_pos_409": {
+                    "layer_0_head_0_token_<s>_pos_1": {}
+                }
+            }
+        },
+        "layer_22_head_30_token_<0x0A>_pos_621": {
+            "layer_16_head_19_token_ae_pos_594": {
+                "layer_15_head_27_token_is_pos_506": {
+                    "layer_3_head_9_token_ren_pos_505": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                },
+                "layer_7_head_19_token_is_pos_506": {
+                    "layer_5_head_23_token_is_pos_506": {
+                        "layer_4_head_10_token_is_pos_217": {
+                            "layer_0_head_0_token_<0x0A>_pos_9": {}
+                        }
+                    }
+                }
+            },
+            "layer_16_head_1_token_ae_pos_594": {
+                "layer_15_head_27_token_is_pos_506": {
+                    "layer_3_head_9_token_ren_pos_505": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                },
+                "layer_7_head_19_token_is_pos_506": {
+                    "layer_5_head_23_token_is_pos_506": {
+                        "layer_4_head_10_token_is_pos_217": {
+                            "layer_0_head_0_token_<0x0A>_pos_9": {}
+                        }
+                    }
+                }
+            },
+            "layer_20_head_30_token_ae_pos_594": {
+                "layer_0_head_15_token_is_pos_506": {},
+                "layer_10_head_27_token_is_pos_506": {
+                    "layer_2_head_6_token_._pos_503": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                }
+            }
+        },
+        "layer_24_head_29_token_<0x0A>_pos_621": {
+            "layer_14_head_12_token_F_pos_593": {
+                "layer_11_head_18_token_cold_pos_584": {
+                    "layer_8_head_4_token_ant_pos_423": {
+                        "layer_2_head_17_token_git_pos_300": {
+                            "layer_0_head_28_token_jel_pos_299": {}
+                        }
+                    }
+                },
+                "layer_3_head_16_token_cold_pos_584": {
+                    "layer_0_head_0_token_<0x0A>_pos_9": {}
+                }
+            },
+            "layer_21_head_30_token_F_pos_593": {
+                "layer_11_head_15_token_ru_pos_409": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                },
+                "layer_7_head_2_token_ru_pos_409": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                }
+            },
+            "layer_22_head_8_token_F_pos_593": {
+                "layer_11_head_15_token_ru_pos_409": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                },
+                "layer_7_head_2_token_ru_pos_409": {
+                    "layer_0_head_0_token_<s>_pos_0": {}
+                }
+            }
+        },
+        "layer_26_head_24_token_<0x0A>_pos_621": {
+            "layer_16_head_19_token_ae_pos_594": {
+                "layer_15_head_27_token_is_pos_506": {
+                    "layer_3_head_9_token_ren_pos_505": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                },
+                "layer_7_head_19_token_is_pos_506": {
+                    "layer_5_head_23_token_is_pos_506": {
+                        "layer_4_head_10_token_is_pos_217": {
+                            "layer_0_head_0_token_<0x0A>_pos_9": {}
+                        }
+                    }
+                }
+            },
+            "layer_16_head_1_token_ae_pos_594": {
+                "layer_15_head_27_token_is_pos_506": {
+                    "layer_3_head_9_token_ren_pos_505": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                },
+                "layer_7_head_19_token_is_pos_506": {
+                    "layer_5_head_23_token_is_pos_506": {
+                        "layer_4_head_10_token_is_pos_217": {
+                            "layer_0_head_0_token_<0x0A>_pos_9": {}
+                        }
+                    }
+                }
+            },
+            "layer_20_head_30_token_ae_pos_594": {
+                "layer_0_head_15_token_is_pos_506": {},
+                "layer_10_head_27_token_is_pos_506": {
+                    "layer_2_head_6_token_._pos_503": {
+                        "layer_0_head_0_token_<0x0A>_pos_9": {}
+                    }
+                }
+            }
+        }
+    }
+}

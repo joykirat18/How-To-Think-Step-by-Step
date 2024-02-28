@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Wumpuses are impuses. Wumpuses are tumpuses. Every gorpus is not spicy. Every wumpus is spicy. Vumpuses are wumpuses. Vumpuses are numpuses. Every vumpus is not orange. Each tumpus is medium. Each numpus is not happy. Each sterpus is a yumpus. Sterpuses are dull. Sam is a vumpus. Sam is a sterpus.",
+        "query": "True or false: Sam is not spicy.",
+        "answer": "Sam is a vumpus. Vumpuses are wumpuses. Sam is a wumpus. Every wumpus is spicy. Sam is spicy. False",
+        "label": "False",
+        "tree": "(impus\n  (wumpus properties: spicy\n    (vumpus properties: not orange\n    )\n  )\n)\n(tumpus properties: medium\n  (wumpus properties: spicy\n    (vumpus properties: not orange\n    )\n  )\n)\n(numpus properties: not happy\n  (vumpus properties: not orange\n  )\n)\n(yumpus\n  (sterpus properties: dull\n  )\n)\n"
+    },
+    {
+        "question": "Each grimpus is a rompus. Shumpuses are red. Every grimpus is a zumpus. Grimpuses are not red. Each numpus is a grimpus. Numpuses are lempuses. Numpuses are metallic. Zumpuses are not medium. Lempuses are transparent. Each impus is a tumpus. Impuses are not bitter. Max is a numpus. Max is an impus.",
+        "query": "True or false: Max is not red.",
+        "answer": "Max is a numpus. Each numpus is a grimpus. Max is a grimpus. Grimpuses are not red. Max is not red. True",
+        "label": "True",
+        "tree": "(rompus\n  (grimpus properties: not red\n    (numpus properties: metallic\n    )\n  )\n)\n(zumpus properties: not medium\n  (grimpus properties: not red\n    (numpus properties: metallic\n    )\n  )\n)\n(lempus properties: transparent\n  (numpus properties: metallic\n  )\n)\n(tumpus\n  (impus properties: not bitter\n  )\n)\n"
+    },
+    {
+        "question": "Every rompus is a lorpus. Every sterpus is bright. Each rompus is a jompus. Each rompus is not bright. Yumpuses are rompuses. Every yumpus is a wumpus. Yumpuses are not feisty. Jompuses are red. Each wumpus is not spicy. Each vumpus is a grimpus. Vumpuses are not luminous. Alex is a yumpus. Alex is a vumpus.",
+        "query": "True or false: Alex is bright.",
+        "answer": "Alex is a yumpus. Yumpuses are rompuses. Alex is a rompus. Each rompus is not bright. Alex is not bright. False",
+        "label": "False",
+        "tree": "(lorpus\n  (rompus properties: not bright\n    (yumpus properties: not feisty\n    )\n  )\n)\n(jompus properties: red\n  (rompus properties: not bright\n    (yumpus properties: not feisty\n    )\n  )\n)\n(wumpus properties: not spicy\n  (yumpus properties: not feisty\n  )\n)\n(grimpus\n  (vumpus properties: not luminous\n  )\n)\n"
+    },
+    {
+        "question": "Every shumpus is a brimpus. Every shumpus is a numpus. Shumpuses are spicy. Each dumpus is a shumpus. Gorpuses are not spicy. Every dumpus is a vumpus. Every dumpus is not dull. Each numpus is red. Each vumpus is metallic. Impuses are jompuses. Each impus is medium. Fae is an impus. Fae is a dumpus.",
+        "query": "True or false: Fae is spicy.",
+        "answer": "Fae is a dumpus. Each dumpus is a shumpus. Fae is a shumpus. Shumpuses are spicy. Fae is spicy. True",
+        "label": "True",
+        "tree": "(brimpus\n  (shumpus properties: spicy\n    (dumpus properties: not dull\n    )\n  )\n)\n(numpus properties: red\n  (shumpus properties: spicy\n    (dumpus properties: not dull\n    )\n  )\n)\n(vumpus properties: metallic\n  (dumpus properties: not dull\n  )\n)\n(jompus\n  (impus properties: medium\n  )\n)\n"
+    },
+    {
+        "question": "Each shumpus is a yumpus. Each shumpus is an impus. Each shumpus is opaque. Lempuses are shumpuses. Each lempus is a wumpus. Lempuses are not bitter. Impuses are not dull. Each wumpus is liquid. Vumpuses are tumpuses. Every gorpus is not opaque. Vumpuses are red. Rex is a vumpus. Rex is a lempus.",
+        "query": "True or false: Rex is not opaque.",
+        "answer": "Rex is a lempus. Lempuses are shumpuses. Rex is a shumpus. Each shumpus is opaque. Rex is opaque. False",
+        "label": "False",
+        "tree": "(yumpus\n  (shumpus properties: opaque\n    (lempus properties: not bitter\n    )\n  )\n)\n(impus properties: not dull\n  (shumpus properties: opaque\n    (lempus properties: not bitter\n    )\n  )\n)\n(wumpus properties: liquid\n  (lempus properties: not bitter\n  )\n)\n(tumpus\n  (vumpus properties: red\n  )\n)\n"
+    },
+    {
+        "question": "Each jompus is a shumpus. Jompuses are numpuses. Each jompus is not transparent. Each lorpus is a jompus. Every lorpus is a lempus. Every lorpus is not nervous. Numpuses are small. Lempuses are luminous. Every grimpus is a vumpus. Grimpuses are sour. Wumpuses are transparent. Alex is a lorpus. Alex is a grimpus.",
+        "query": "True or false: Alex is not transparent.",
+        "answer": "Alex is a lorpus. Each lorpus is a jompus. Alex is a jompus. Each jompus is not transparent. Alex is not transparent. True",
+        "label": "True",
+        "tree": "(shumpus\n  (jompus properties: not transparent\n    (lorpus properties: not nervous\n    )\n  )\n)\n(numpus properties: small\n  (jompus properties: not transparent\n    (lorpus properties: not nervous\n    )\n  )\n)\n(lempus properties: luminous\n  (lorpus properties: not nervous\n  )\n)\n(vumpus\n  (grimpus properties: sour\n  )\n)\n"
+    },
+    {
+        "question": "Each jompus is a sterpus. Jompuses are shumpuses. Jompuses are not happy. Each lempus is a jompus. Lempuses are zumpuses. Every lempus is blue. Each shumpus is not metallic. Zumpuses are not opaque. Rompuses are grimpuses. Each wumpus is happy. Every rompus is dull. Rex is a rompus. Rex is a lempus.",
+        "query": "True or false: Rex is happy.",
+        "answer": "Rex is a lempus. Each lempus is a jompus. Rex is a jompus. Jompuses are not happy. Rex is not happy. False",
+        "label": "False",
+        "tree": "(sterpus\n  (jompus properties: not happy\n    (lempus properties: blue\n    )\n  )\n)\n(shumpus properties: not metallic\n  (jompus properties: not happy\n    (lempus properties: blue\n    )\n  )\n)\n(zumpus properties: not opaque\n  (lempus properties: blue\n  )\n)\n(grimpus\n  (rompus properties: dull\n  )\n)\n"
+    },
+    {
+        "question": "Each yumpus is a lorpus. Each yumpus is a jompus. Yumpuses are not bright. Each vumpus is a yumpus. Vumpuses are numpuses. Each vumpus is wooden. Every brimpus is bright. Jompuses are not nervous. Each numpus is not large. Gorpuses are zumpuses. Each gorpus is not red. Stella is a vumpus. Stella is a gorpus.",
+        "query": "True or false: Stella is not bright.",
+        "answer": "Stella is a vumpus. Each vumpus is a yumpus. Stella is a yumpus. Yumpuses are not bright. Stella is not bright. True",
+        "label": "True",
+        "tree": "(lorpus\n  (yumpus properties: not bright\n    (vumpus properties: wooden\n    )\n  )\n)\n(jompus properties: not nervous\n  (yumpus properties: not bright\n    (vumpus properties: wooden\n    )\n  )\n)\n(numpus properties: not large\n  (vumpus properties: wooden\n  )\n)\n(zumpus\n  (gorpus properties: not red\n  )\n)\n"
+    }
+]

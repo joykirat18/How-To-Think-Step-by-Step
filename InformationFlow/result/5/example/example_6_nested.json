@@ -1,0 +1,308 @@
+{
+    "layer_19_head_9_token_is_pos_-1": {
+        "layer_17_head_14_token_met_pos_605_tokenPassed_icul": {
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_11_head_6_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            }
+        },
+        "layer_18_head_2_token_met_pos_605_tokenPassed_icul": {
+            "layer_17_head_14_token_met_pos_605_tokenPassed_icul": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_11_head_6_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+                },
+                "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+                }
+            },
+            "layer_2_head_24_token_met_pos_605_tokenPassed_icul": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_18_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            },
+            "layer_8_head_3_token_met_pos_605_tokenPassed_icul": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                },
+                "layer_6_head_11_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                    "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                        "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                        "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                    }
+                }
+            }
+        },
+        "layer_2_head_24_token_met_pos_605_tokenPassed_icul": {
+            "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_0_head_18_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+        },
+        "layer_8_head_3_token_met_pos_605_tokenPassed_icul": {
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            },
+            "layer_6_head_11_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            }
+        }
+    },
+    "layer_24_head_17_token_is_pos_-1": {
+        "layer_13_head_11_token_met_pos_605_tokenPassed_all": {
+            "layer_12_head_2_token_all_pos_581_tokenPassed_ic": {
+                "layer_6_head_12_token_._pos_110_tokenPassed_cyk": {
+                    "layer_4_head_3_token_._pos_97_tokenPassed_aucoup": {
+                        "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                    }
+                },
+                "layer_7_head_28_token_._pos_110_tokenPassed_cyk": {
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            },
+            "layer_3_head_2_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            },
+            "layer_4_head_10_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            }
+        },
+        "layer_16_head_19_token_met_pos_605_tokenPassed_all": {
+            "layer_13_head_11_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_15_head_12_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_3_head_2_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            }
+        },
+        "layer_16_head_24_token_met_pos_605_tokenPassed_all": {
+            "layer_13_head_11_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_15_head_12_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_3_head_2_token_all_pos_581_tokenPassed_ic": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            }
+        },
+        "layer_17_head_22_token_met_pos_605_tokenPassed_all": {
+            "layer_14_head_16_token_ic_pos_582_tokenPassed_.": {
+                "layer_4_head_26_token_ity_pos_404_tokenPassed_ness": {
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                },
+                "layer_6_head_30_token_ity_pos_404_tokenPassed_ness": {
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            },
+            "layer_16_head_19_token_ic_pos_582_tokenPassed_.": {
+                "layer_11_head_8_token_._pos_485_tokenPassed_empio": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                },
+                "layer_8_head_12_token_._pos_485_tokenPassed_empio": {
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            },
+            "layer_16_head_1_token_ic_pos_582_tokenPassed_.": {
+                "layer_12_head_1_token_._pos_97_tokenPassed_multicol": {
+                    "layer_11_head_12_token_ord_pos_95_tokenPassed_ful": {
+                        "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                            "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                        }
+                    }
+                },
+                "layer_8_head_25_token_._pos_97_tokenPassed_multicol": {
+                    "layer_4_head_28_token_._pos_28_tokenPassed_Bildern": {
+                        "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                    }
+                }
+            }
+        }
+    },
+    "layer_26_head_25_token_is_pos_-1": {
+        "layer_15_head_28_token_met_pos_580_tokenPassed_icul": {
+            "layer_1_head_22_token_are_pos_579_tokenPassed_\u202d": {
+                "layer_0_head_22_token_<0x0A>_pos_574_tokenPassed_\u043f\u0443\u0442\u0430": {},
+                "layer_0_head_7_token_<0x0A>_pos_574_tokenPassed_\u043f\u0443\u0442\u0430": {}
+            },
+            "layer_2_head_1_token_are_pos_579_tokenPassed_\u202d": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            },
+            "layer_7_head_25_token_are_pos_579_tokenPassed_\u202d": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_3_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+                }
+            }
+        },
+        "layer_17_head_14_token_met_pos_580_tokenPassed_icul": {
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_11_head_6_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            }
+        },
+        "layer_18_head_2_token_met_pos_580_tokenPassed_icul": {
+            "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+            "layer_3_head_14_token_<0x0A>_pos_3_tokenPassed_sierp": {
+                "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+            }
+        },
+        "layer_2_head_24_token_met_pos_580_tokenPassed_icul": {
+            "layer_0_head_15_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_0_head_18_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {}
+        }
+    },
+    "layer_30_head_14_token_is_pos_-1": {
+        "layer_21_head_30_token_imp_pos_501_tokenPassed_us": {
+            "layer_16_head_19_token_us_pos_487_tokenPassed_is": {
+                "layer_12_head_0_token_is_pos_219_tokenPassed_nt": {
+                    "layer_8_head_6_token_._pos_215_tokenPassed_dimen": {
+                        "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                            "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                        }
+                    }
+                },
+                "layer_1_head_27_token_is_pos_219_tokenPassed_nt": {
+                    "layer_0_head_20_token_<0x0A>_pos_3_tokenPassed_bolds": {}
+                }
+            },
+            "layer_16_head_1_token_us_pos_487_tokenPassed_is": {
+                "layer_10_head_21_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                },
+                "layer_10_head_27_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                }
+            },
+            "layer_20_head_30_token_us_pos_487_tokenPassed_is": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+                }
+            }
+        },
+        "layer_22_head_8_token_imp_pos_501_tokenPassed_us": {
+            "layer_16_head_19_token_us_pos_487_tokenPassed_is": {
+                "layer_12_head_0_token_is_pos_219_tokenPassed_nt": {
+                    "layer_8_head_6_token_._pos_215_tokenPassed_dimen": {
+                        "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                            "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                        }
+                    }
+                },
+                "layer_1_head_27_token_is_pos_219_tokenPassed_nt": {
+                    "layer_0_head_20_token_<0x0A>_pos_3_tokenPassed_bolds": {}
+                }
+            },
+            "layer_16_head_1_token_us_pos_487_tokenPassed_is": {
+                "layer_10_head_21_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                },
+                "layer_10_head_27_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                }
+            },
+            "layer_20_head_30_token_us_pos_487_tokenPassed_is": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+                }
+            }
+        },
+        "layer_24_head_29_token_imp_pos_501_tokenPassed_us": {
+            "layer_16_head_19_token_us_pos_487_tokenPassed_is": {
+                "layer_12_head_0_token_is_pos_219_tokenPassed_nt": {
+                    "layer_8_head_6_token_._pos_215_tokenPassed_dimen": {
+                        "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                            "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                        }
+                    }
+                },
+                "layer_1_head_27_token_is_pos_219_tokenPassed_nt": {
+                    "layer_0_head_20_token_<0x0A>_pos_3_tokenPassed_bolds": {}
+                }
+            },
+            "layer_16_head_1_token_us_pos_487_tokenPassed_is": {
+                "layer_10_head_21_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                },
+                "layer_10_head_27_token_are_pos_299_tokenPassed_Guer": {
+                    "layer_4_head_2_token_###_pos_0_tokenPassed_sierp": {
+                        "layer_0_head_5_token_###_pos_0_tokenPassed_sierp": {}
+                    }
+                }
+            },
+            "layer_20_head_30_token_us_pos_487_tokenPassed_is": {
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+                "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                    "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                    "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+                }
+            }
+        },
+        "layer_25_head_19_token_imp_pos_501_tokenPassed_us": {
+            "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {},
+            "layer_11_head_6_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            },
+            "layer_13_head_9_token_<0x0A>_pos_3_tokenPassed_Unterscheidung": {
+                "layer_0_head_0_token_<0x0A>_pos_3_tokenPassed_sierp": {},
+                "layer_0_head_22_token_<0x0A>_pos_3_tokenPassed_sierp": {}
+            }
+        }
+    }
+}

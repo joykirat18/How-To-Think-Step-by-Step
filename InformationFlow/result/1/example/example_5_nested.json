@@ -1,0 +1,411 @@
+{
+    "layer_20_head_0_pos_-1": {
+        "layer_16_head_19_pos_597": {
+            "layer_11_head_26_pos_508": {
+                "layer_0_head_13_pos_493": {},
+                "layer_1_head_25_pos_493": {
+                    "layer_0_head_19_pos_493": {}
+                }
+            },
+            "layer_12_head_25_pos_508": {
+                "layer_1_head_27_pos_6": {
+                    "layer_0_head_12_pos_5": {}
+                },
+                "layer_3_head_3_pos_6": {
+                    "layer_0_head_0_pos_3": {}
+                }
+            },
+            "layer_2_head_23_pos_508": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            }
+        },
+        "layer_16_head_24_pos_597": {
+            "layer_12_head_25_pos_588": {
+                "layer_1_head_27_pos_6": {
+                    "layer_0_head_12_pos_5": {}
+                },
+                "layer_3_head_3_pos_6": {
+                    "layer_0_head_0_pos_3": {}
+                }
+            },
+            "layer_2_head_23_pos_588": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            },
+            "layer_6_head_0_pos_588": {
+                "layer_0_head_0_pos_5": {},
+                "layer_3_head_30_pos_5": {
+                    "layer_0_head_0_pos_1": {}
+                }
+            }
+        },
+        "layer_1_head_16_pos_597": {
+            "layer_0_head_11_pos_596": {},
+            "layer_0_head_28_pos_596": {},
+            "layer_0_head_2_pos_596": {}
+        },
+        "layer_6_head_15_pos_597": {
+            "layer_0_head_0_pos_0": {},
+            "layer_0_head_26_pos_0": {},
+            "layer_3_head_30_pos_0": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {}
+            }
+        }
+    },
+    "layer_22_head_24_pos_-1": {
+        "layer_16_head_19_pos_597": {
+            "layer_11_head_26_pos_508": {
+                "layer_0_head_13_pos_493": {},
+                "layer_1_head_25_pos_493": {
+                    "layer_0_head_19_pos_493": {}
+                }
+            },
+            "layer_12_head_25_pos_508": {
+                "layer_1_head_27_pos_6": {
+                    "layer_0_head_12_pos_5": {}
+                },
+                "layer_3_head_3_pos_6": {
+                    "layer_0_head_0_pos_3": {}
+                }
+            },
+            "layer_2_head_23_pos_508": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            }
+        },
+        "layer_16_head_24_pos_597": {
+            "layer_12_head_25_pos_588": {
+                "layer_1_head_27_pos_6": {
+                    "layer_0_head_12_pos_5": {}
+                },
+                "layer_3_head_3_pos_6": {
+                    "layer_0_head_0_pos_3": {}
+                }
+            },
+            "layer_2_head_23_pos_588": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            },
+            "layer_6_head_0_pos_588": {
+                "layer_0_head_0_pos_5": {},
+                "layer_3_head_30_pos_5": {
+                    "layer_0_head_0_pos_1": {}
+                }
+            }
+        },
+        "layer_1_head_16_pos_597": {
+            "layer_0_head_11_pos_596": {},
+            "layer_0_head_28_pos_596": {},
+            "layer_0_head_2_pos_596": {}
+        },
+        "layer_6_head_15_pos_597": {
+            "layer_0_head_0_pos_0": {},
+            "layer_0_head_26_pos_0": {},
+            "layer_3_head_30_pos_0": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {}
+            }
+        }
+    },
+    "layer_26_head_26_pos_-1": {
+        "layer_13_head_11_pos_597": {
+            "layer_10_head_7_pos_493": {
+                "layer_0_head_0_pos_6": {},
+                "layer_0_head_27_pos_6": {}
+            },
+            "layer_3_head_3_pos_493": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {}
+            },
+            "layer_9_head_8_pos_493": {
+                "layer_3_head_30_pos_396": {
+                    "layer_0_head_0_pos_9": {}
+                },
+                "layer_5_head_15_pos_396": {
+                    "layer_3_head_2_pos_395": {
+                        "layer_0_head_0_pos_9": {}
+                    }
+                }
+            }
+        },
+        "layer_21_head_30_pos_597": {
+            "layer_16_head_19_pos_588": {
+                "layer_11_head_16_pos_494": {
+                    "layer_1_head_25_pos_493": {
+                        "layer_0_head_19_pos_493": {}
+                    }
+                },
+                "layer_6_head_20_pos_494": {
+                    "layer_4_head_3_pos_408": {
+                        "layer_0_head_0_pos_9": {}
+                    }
+                }
+            },
+            "layer_16_head_1_pos_588": {
+                "layer_6_head_20_pos_506": {
+                    "layer_4_head_16_pos_422": {
+                        "layer_0_head_0_pos_5": {}
+                    }
+                },
+                "layer_7_head_19_pos_506": {
+                    "layer_5_head_21_pos_504": {
+                        "layer_0_head_0_pos_4": {}
+                    }
+                }
+            },
+            "layer_20_head_30_pos_588": {
+                "layer_0_head_0_pos_4": {},
+                "layer_13_head_22_pos_4": {
+                    "layer_0_head_0_pos_0": {}
+                }
+            }
+        },
+        "layer_22_head_8_pos_597": {
+            "layer_15_head_3_pos_493": {
+                "layer_11_head_9_pos_492": {
+                    "layer_0_head_0_pos_6": {}
+                },
+                "layer_5_head_13_pos_492": {
+                    "layer_0_head_0_pos_2": {}
+                }
+            },
+            "layer_2_head_6_pos_493": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            },
+            "layer_4_head_30_pos_493": {
+                "layer_0_head_0_pos_5": {},
+                "layer_3_head_30_pos_5": {
+                    "layer_0_head_0_pos_1": {}
+                }
+            }
+        },
+        "layer_24_head_29_pos_597": {
+            "layer_15_head_3_pos_508": {
+                "layer_14_head_24_pos_507": {
+                    "layer_1_head_19_pos_498": {
+                        "layer_0_head_0_pos_9": {}
+                    }
+                },
+                "layer_6_head_12_pos_507": {
+                    "layer_0_head_28_pos_492": {}
+                }
+            },
+            "layer_18_head_7_pos_508": {
+                "layer_15_head_12_pos_508": {
+                    "layer_5_head_16_pos_493": {
+                        "layer_3_head_2_pos_492": {
+                            "layer_0_head_0_pos_9": {}
+                        }
+                    }
+                },
+                "layer_15_head_16_pos_508": {
+                    "layer_7_head_19_pos_506": {
+                        "layer_5_head_21_pos_504": {
+                            "layer_0_head_0_pos_4": {}
+                        }
+                    }
+                }
+            },
+            "layer_2_head_6_pos_508": {
+                "layer_0_head_0_pos_9": {},
+                "layer_0_head_22_pos_9": {}
+            }
+        }
+    },
+    "layer_28_head_25_pos_-1": {
+        "layer_20_head_0_pos_624": {
+            "layer_16_head_24_pos_597": {
+                "layer_12_head_25_pos_588": {
+                    "layer_1_head_27_pos_6": {
+                        "layer_0_head_12_pos_5": {}
+                    },
+                    "layer_3_head_3_pos_6": {
+                        "layer_0_head_0_pos_3": {}
+                    }
+                },
+                "layer_2_head_23_pos_588": {
+                    "layer_0_head_0_pos_9": {},
+                    "layer_0_head_22_pos_9": {}
+                },
+                "layer_6_head_0_pos_588": {
+                    "layer_0_head_0_pos_5": {},
+                    "layer_3_head_30_pos_5": {
+                        "layer_0_head_0_pos_1": {}
+                    }
+                }
+            },
+            "layer_1_head_16_pos_597": {
+                "layer_0_head_11_pos_596": {},
+                "layer_0_head_28_pos_596": {},
+                "layer_0_head_2_pos_596": {}
+            },
+            "layer_6_head_15_pos_597": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {},
+                "layer_3_head_30_pos_0": {
+                    "layer_0_head_0_pos_0": {},
+                    "layer_0_head_26_pos_0": {}
+                }
+            }
+        },
+        "layer_20_head_30_pos_624": {
+            "layer_16_head_24_pos_597": {
+                "layer_12_head_25_pos_588": {
+                    "layer_1_head_27_pos_6": {
+                        "layer_0_head_12_pos_5": {}
+                    },
+                    "layer_3_head_3_pos_6": {
+                        "layer_0_head_0_pos_3": {}
+                    }
+                },
+                "layer_2_head_23_pos_588": {
+                    "layer_0_head_0_pos_9": {},
+                    "layer_0_head_22_pos_9": {}
+                },
+                "layer_6_head_0_pos_588": {
+                    "layer_0_head_0_pos_5": {},
+                    "layer_3_head_30_pos_5": {
+                        "layer_0_head_0_pos_1": {}
+                    }
+                }
+            },
+            "layer_1_head_16_pos_597": {
+                "layer_0_head_11_pos_596": {},
+                "layer_0_head_28_pos_596": {},
+                "layer_0_head_2_pos_596": {}
+            },
+            "layer_6_head_15_pos_597": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {},
+                "layer_3_head_30_pos_0": {
+                    "layer_0_head_0_pos_0": {},
+                    "layer_0_head_26_pos_0": {}
+                }
+            }
+        },
+        "layer_22_head_24_pos_624": {
+            "layer_16_head_24_pos_597": {
+                "layer_12_head_25_pos_588": {
+                    "layer_1_head_27_pos_6": {
+                        "layer_0_head_12_pos_5": {}
+                    },
+                    "layer_3_head_3_pos_6": {
+                        "layer_0_head_0_pos_3": {}
+                    }
+                },
+                "layer_2_head_23_pos_588": {
+                    "layer_0_head_0_pos_9": {},
+                    "layer_0_head_22_pos_9": {}
+                },
+                "layer_6_head_0_pos_588": {
+                    "layer_0_head_0_pos_5": {},
+                    "layer_3_head_30_pos_5": {
+                        "layer_0_head_0_pos_1": {}
+                    }
+                }
+            },
+            "layer_1_head_16_pos_597": {
+                "layer_0_head_11_pos_596": {},
+                "layer_0_head_28_pos_596": {},
+                "layer_0_head_2_pos_596": {}
+            },
+            "layer_6_head_15_pos_597": {
+                "layer_0_head_0_pos_0": {},
+                "layer_0_head_26_pos_0": {},
+                "layer_3_head_30_pos_0": {
+                    "layer_0_head_0_pos_0": {},
+                    "layer_0_head_26_pos_0": {}
+                }
+            }
+        },
+        "layer_26_head_26_pos_624": {
+            "layer_21_head_30_pos_597": {
+                "layer_16_head_19_pos_588": {
+                    "layer_11_head_16_pos_494": {
+                        "layer_1_head_25_pos_493": {
+                            "layer_0_head_19_pos_493": {}
+                        }
+                    },
+                    "layer_6_head_20_pos_494": {
+                        "layer_4_head_3_pos_408": {
+                            "layer_0_head_0_pos_9": {}
+                        }
+                    }
+                },
+                "layer_16_head_1_pos_588": {
+                    "layer_6_head_20_pos_506": {
+                        "layer_4_head_16_pos_422": {
+                            "layer_0_head_0_pos_5": {}
+                        }
+                    },
+                    "layer_7_head_19_pos_506": {
+                        "layer_5_head_21_pos_504": {
+                            "layer_0_head_0_pos_4": {}
+                        }
+                    }
+                },
+                "layer_20_head_30_pos_588": {
+                    "layer_0_head_0_pos_4": {},
+                    "layer_13_head_22_pos_4": {
+                        "layer_0_head_0_pos_0": {}
+                    }
+                }
+            },
+            "layer_22_head_8_pos_597": {
+                "layer_15_head_3_pos_493": {
+                    "layer_11_head_9_pos_492": {
+                        "layer_0_head_0_pos_6": {}
+                    },
+                    "layer_5_head_13_pos_492": {
+                        "layer_0_head_0_pos_2": {}
+                    }
+                },
+                "layer_2_head_6_pos_493": {
+                    "layer_0_head_0_pos_9": {},
+                    "layer_0_head_22_pos_9": {}
+                },
+                "layer_4_head_30_pos_493": {
+                    "layer_0_head_0_pos_5": {},
+                    "layer_3_head_30_pos_5": {
+                        "layer_0_head_0_pos_1": {}
+                    }
+                }
+            },
+            "layer_24_head_29_pos_597": {
+                "layer_15_head_3_pos_508": {
+                    "layer_14_head_24_pos_507": {
+                        "layer_1_head_19_pos_498": {
+                            "layer_0_head_0_pos_9": {}
+                        }
+                    },
+                    "layer_6_head_12_pos_507": {
+                        "layer_0_head_28_pos_492": {}
+                    }
+                },
+                "layer_18_head_7_pos_508": {
+                    "layer_15_head_12_pos_508": {
+                        "layer_5_head_16_pos_493": {
+                            "layer_3_head_2_pos_492": {
+                                "layer_0_head_0_pos_9": {}
+                            }
+                        }
+                    },
+                    "layer_15_head_16_pos_508": {
+                        "layer_7_head_19_pos_506": {
+                            "layer_5_head_21_pos_504": {
+                                "layer_0_head_0_pos_4": {}
+                            }
+                        }
+                    }
+                },
+                "layer_2_head_6_pos_508": {
+                    "layer_0_head_0_pos_9": {},
+                    "layer_0_head_22_pos_9": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,482 @@
+[
+    {
+        "noise_index": 0,
+        "scale_factor": -1.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.9847597608262056,
+        "average_diff_probability": -0.9031502375844866
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": -2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.9985972635885606,
+        "average_diff_probability": -0.9160193612092553
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.3229964770425326,
+        "average_diff_probability": -0.290960234105587
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": 0.049746608657757534,
+        "average_diff_probability": 0.043119674921035765
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 5.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": 0.03566485780510354,
+        "average_diff_probability": 0.02878490522503853
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 10.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.561924780974739,
+        "average_diff_probability": -0.5142925968789496
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 100.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.9999985330977671,
+        "average_diff_probability": -0.917329159913536
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.5,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.07278848746844582,
+        "average_diff_probability": -0.06466113984584808
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.2,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.18338985437149966,
+        "average_diff_probability": -0.1642067775130272
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 34,
+        "average_normalized_probability": -0.24480211585074407,
+        "average_diff_probability": -0.2198432958126068
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": -1.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.41743898736439816,
+        "average_diff_probability": -0.3734920904931173
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.06828714994179905,
+        "average_diff_probability": -0.060802957117557524
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 2.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.009255724748661895,
+        "average_diff_probability": -0.008388994932174683
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 10.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.12582175431191617,
+        "average_diff_probability": -0.10938908100128174
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.5,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": 0.006762473720001001,
+        "average_diff_probability": 0.0060039061307907106
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.04904908339070858,
+        "average_diff_probability": -0.043916580453515056
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": -1.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.9900566180892867,
+        "average_diff_probability": -0.9408827355258776
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": -2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.9997301081936552,
+        "average_diff_probability": -0.950216728715041
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.7364234806024121,
+        "average_diff_probability": -0.6962719759065658
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.0518772293591467,
+        "average_diff_probability": -0.04754755318164825
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 5.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.4953196161084425,
+        "average_diff_probability": -0.4652965090051293
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 10.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.999627898115123,
+        "average_diff_probability": -0.9501151926508249
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 100.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.9998663663846572,
+        "average_diff_probability": -0.9503451421604694
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.5,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.03907394522263105,
+        "average_diff_probability": -0.03462343454360962
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.2,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.24918672854718146,
+        "average_diff_probability": -0.23052174225449562
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.1,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 70,
+        "average_normalized_probability": -0.4685722523850411,
+        "average_diff_probability": -0.43946445547044277
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": -1.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.8779216324028195,
+        "average_diff_probability": -0.8351387745173929
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.1395004278453327,
+        "average_diff_probability": -0.13345074228942394
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 2.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.026683004475735586,
+        "average_diff_probability": -0.02506877660751343
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 10.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.3107459739172224,
+        "average_diff_probability": -0.2904536325717345
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.5,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": 7.562273643536537e-05,
+        "average_diff_probability": -7.990539073944091e-05
+    },
+    {
+        "noise_index": 1,
+        "scale_factor": 0.1,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.09485578129941674,
+        "average_diff_probability": -0.09080029733479023
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": -1.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.9786474931706214,
+        "average_diff_probability": -0.6526847661163678
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": -2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.9932703052928064,
+        "average_diff_probability": -0.6625419356334115
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.8968938138999833,
+        "average_diff_probability": -0.5997746906935936
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 2.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": 0.0039940682586215885,
+        "average_diff_probability": 0.001370006799697876
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 5.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.8018956388559553,
+        "average_diff_probability": -0.5262859298015167
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 10.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.9995099465721746,
+        "average_diff_probability": -0.666349898612959
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 100.0,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.9999643629581607,
+        "average_diff_probability": -0.6666842797076694
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.5,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.2577098725653853,
+        "average_diff_probability": -0.16841517679393292
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.2,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.6047689491710578,
+        "average_diff_probability": -0.4038241974124685
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.1,
+        "type": "top",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 62,
+        "average_normalized_probability": -0.7604187263874913,
+        "average_diff_probability": -0.5096983184549027
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": -1.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": -0.7968165744133767,
+        "average_diff_probability": -0.5330597775115146
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": -0.11431862127646335,
+        "average_diff_probability": -0.07337176745553733
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 2.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": 0.0033976326003599573,
+        "average_diff_probability": -0.0010069507360458375
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 10.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": -0.17183455882818005,
+        "average_diff_probability": -0.1180425245501101
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.5,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": -0.0329264432783248,
+        "average_diff_probability": -0.019220466315746306
+    },
+    {
+        "noise_index": 2,
+        "scale_factor": 0.1,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 39,
+        "average_normalized_probability": -0.08331471108192533,
+        "average_diff_probability": -0.052897746509406714
+    }
+]

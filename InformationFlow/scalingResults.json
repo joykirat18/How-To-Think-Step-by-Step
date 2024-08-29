@@ -1,0 +1,136 @@
+[
+    {
+        "noise_index": 0,
+        "scale_factor": -1.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": 0.0,
+        "average_diff_probability": 0.0
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": -1.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.41743898736439816,
+        "average_diff_probability": -0.3734920904931173
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.06828714994179905,
+        "average_diff_probability": -0.060802957117557524
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 2.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.009255724748661895,
+        "average_diff_probability": -0.008388994932174683
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 10.0,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.12582175431191617,
+        "average_diff_probability": -0.10938908100128174
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.5,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": 0.006762473720001001,
+        "average_diff_probability": 0.0060039061307907106
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "type": "bottom",
+        "k": 8,
+        "number_of_examples": 100,
+        "number_writing_heads": 38,
+        "average_normalized_probability": -0.04904908339070858,
+        "average_diff_probability": -0.043916580453515056
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "type": "bottom",
+        "k": 5,
+        "number_of_examples": 100,
+        "number_writing_heads": 29,
+        "average_normalized_probability": -0.0557620792996253,
+        "average_diff_probability": -0.04842367559671402
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.05,
+        "type": "bottom",
+        "k": 5,
+        "number_of_examples": 100,
+        "number_writing_heads": 29,
+        "average_normalized_probability": -0.07165464200784367,
+        "average_diff_probability": -0.062390973567962645
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.025,
+        "type": "bottom",
+        "k": 5,
+        "number_of_examples": 100,
+        "number_writing_heads": 29,
+        "average_normalized_probability": -0.08070869080207281,
+        "average_diff_probability": -0.07035382077097893
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.01,
+        "type": "bottom",
+        "k": 5,
+        "number_of_examples": 100,
+        "number_writing_heads": 29,
+        "average_normalized_probability": -0.08648316625065164,
+        "average_diff_probability": -0.07543337181210517
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "number_of_examples": 100,
+        "common_heads": 269,
+        "average_normalized_probability": -0.9876272839088898,
+        "average_diff_probability": -0.9061495335074141
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.1,
+        "number_of_examples": 100,
+        "common_heads": 269,
+        "average_normalized_probability": -0.9909667049983656,
+        "average_diff_probability": -0.909090873633977
+    },
+    {
+        "noise_index": 0,
+        "scale_factor": 0.01,
+        "number_of_examples": 100,
+        "common_heads": 269,
+        "average_normalized_probability": -0.9900668879023681,
+        "average_diff_probability": -0.908194455872872
+    }
+]

@@ -39,36 +39,38 @@ from transformer_lens import HookedTransformer, HookedTransformerConfig, Factore
 torch.set_grad_enabled(False)
 # %%
 import json
-with open('data/activationPatching_llama2_false.json', 'r') as f:
+with open('../data/activationPatching_llama2_false.json', 'r') as f:
     alternate_COTData = json.load(f)
 # %%
 import json
-with open('data/activationPatching_llama2.json', 'r') as f:
+with open('../data/activationPatching_llama2_clean.json', 'r') as f:
     COTData = json.load(f)
 # %%
 import argparse
 parser = argparse.ArgumentParser()
 # python3 IndividualHeadAccuracy.py --noiseIndex 0 --device "cuda:1" --numExamples 10 --alteranteExamples 10
 parser.add_argument("-noiseIndex", "--noiseIndex", help = "noiseIndex")
-parser.add_argument("-device", "--device", help = "device")
+# parser.add_argument("-device", "--device", help = "device")
 parser.add_argument("-start", "--start", help = "start")
 parser.add_argument("-end", "--end", help = "end")
 parser.add_argument("-alternateExamples", "--alternateExamples", help = "alternateExamples")
-
+parser.add_argument("-category", "--category", help = "category")
 args = parser.parse_args()
 # %%
+import sys
+sys.path.append('../')
 from utilsFile.fewShotConstants import TemplateCOT_fictional, TemplateCOT_false
 
 # %%
-# device = "cuda:1"
-device = args.device if torch.cuda.is_available() else "cpu"
+device = "cuda:0"
+# device = args.device if torch.cuda.is_available() else "cpu"
 
 # %%
 
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import os
 from utilsFile.loadModel import loadTransformerLensModel, runCacheActivationPatching
-MODEL_PATH = '/home/models/Llama-2-7b-hf'
+MODEL_PATH = 'meta-llama/Llama-2-7b-hf'
 # modelPath='/home/models/vicuna-7b'
 model, tokenizer = loadTransformerLensModel(MODEL_PATH)
 model = model.to(device)
@@ -78,17 +80,56 @@ start = int(args.start)
 end = int(args.end)
 number_of_examples = end - start - 1
 alternate_examples = int(args.alternateExamples)
+category = args.category
 # noise_index = 0
 # number_of_examples = 2
 # alternate_examples = 50
 import os
-save_dir = f"results/reasoning/combined/{noise_index}/accuracy"
+save_dir = f"/home/t-josingh/How-To-Think-Step-by-Step/InformationFlow/result/reasoning/combined/{noise_index}/{category}/accuracy"
 os.makedirs(save_dir, exist_ok=True)
 # %%
+question_answer_pair = [('Gorpus is twimpus. Alex is rompus. Rompus is gorpus. Gorpus is small. Rompus is mean. True or false: Alex is small. Let us think step by step.', 'Alex is rompus. Rompus is gorpus. Alex is gorpus. Gorpus is small. Alex is small. True'),
+('Gorpuses are discordant. Max is zumpus. Zumpus is shampor. Zumpus is gorpus. Gorpus is earthy. True or false: Max is small. Let us think step by step. ','Max is zumpus. Zumpus is gorpus. Max is gorpus. Gorpuses are discordant. Max is discordant. False'),
+('Borpin are wumpus. Wumpuses are angry. Wumpus is jempor. Sally is lempus. Lempus is wumpus. True or false: Sally is floral. Let us think step by step.','Sally is lempus. Lempus is wumpus. Sally is wumpus. Wumpuses are angry. Sally is angry. False'),
+('Gorpus is jelgit. Yumpuses are loud. Gorpus is yumpus. Yumpus is orange. Rex is gorpus. True or false: Rex is loud. Let us think step by step.', 'Rex is gorpus. Gorpus is yumpus. Rex is yumpus. Yumpuses are loud. Rex is loud. True'),
+('Lempus is tumpus. Max is lempus. Tumpus is fruity. Tumpus is bright. Lempus is dropant. True or false: Max is bright. Let us think step by step.', 'Max is lempus. Lempus is tumpus. Max is tumpus. Tumpus is bright. Max is bright. True'),
+('Sterpuses are dull. Impus is medium. Impuses are sterpuses. Wren is impus. Sterpus is daumpin. True or false: Wren is melodic. Let us think step by step.','Wren is impus. Impuses are sterpuses. Wren is sterpus. Sterpuses are dull. Wren is dull. False'),
+('Cats are cows. Spider are vertebrate. Rex is cat. Cows are large. Cows are large. True or false: Rex is large. Let us think step by step.', 'Rex is cat. Cats are cows. Rex is cow. Cows are large. Rex is large. True'),
+('Vertebrates are cows. Sheep is bitter. Cows are sheep. Fae is cow. Crustaceans are large. True or false: Fae is red. Let us think step by step.','Fae is cow. Cows are sheep. Fae is sheep. Sheep is bitter. Fae is bitter. False'),
+('Dogs are mammals. Mammals are snowy. Lepidopterans are crustaceans. Alex is dog. Mammals are arthropods. True or false: Alex is snowy. Let us think step by step.','Alex is dog. Dogs are mammals. Alex is mammal. Mammals are snowy. Alex is snowy. True'),
+('Moths are discordant. Spiders are moths. Sam is mammal. Mammals are snakes. Snakes are spicy. True or false: Sam is spicy. Let us think step by step.','Sam is mammal. Mammals are snakes. Sam is snake. Snakes are spicy. Sam is spicy. True'),
+('Dogs are cows. Max is dog. Butterflies are spiders. Cows are dull. Spiders are floral. True or false: Max is luminous. Let us think step by step.','Max is dog. Dogs are cows. Max is cow. Cows are dull. Max is dull. False'),
+('Dog is feisty. Feline is small. Sheep are melodic. Sam is mammal. Mammals are dogs. True or false: Sam is feisty. Let us think step by step.','Sam is mammal. Mammals are dogs. Sam is dog. Dog is feisty. Sam is feisty. True')]
 
+Template_final = """"""
+template = """### Input:
+{}
+### Response:
+{}"""
+import random
+random.shuffle(question_answer_pair)
+for question, answer in question_answer_pair[:5]:
+    Template_final += template.format(question, answer) + "\n\n"
+Template_final += """### Input:
+{}
+### Response:"""
+# breakpoint()
+# %%
 print(f"Noise index: {noise_index}")
 print(f"Number of examples: {number_of_examples}")
-prompts = [TemplateCOT_fictional.format(data['prompt']) + data[f'response_{noise_index}'] for data in COTData][start:end]
+# prompts = [Template_final.format(data['prompt']) + data[f'response_{noise_index}'] for data in COTData][start:end]
+prompts = []
+for data in COTData[start:end]:
+    random.shuffle(question_answer_pair)
+    Template_final = """"""
+    for question, answer in question_answer_pair[:5]:
+        Template_final += template.format(question, answer) + "\n\n"
+    Template_final += """### Input:
+{}
+### Response:
+"""
+    prompts.append(Template_final.format(data['prompt']) + data[f'response_{noise_index}'])
+    # breakpoint()
 labels = [(data[f'response_{noise_index + 1}'].replace(data[f'response_{noise_index}'], "").strip()) for data in COTData][start:end]
 alternate_prompts = [TemplateCOT_false.format(data['prompt']) + data[f'response_{noise_index}'] for data in alternate_COTData][start:end]
 alternate_labels = [data['label'] for data in alternate_COTData][start:end]
@@ -130,9 +171,7 @@ input_ids = torch.tensor(input_ids)
 for i in range(len(alternate_input_ids)):
     alternate_input_ids[i] = [pad_id] * (max_seq_len - len(alternate_input_ids[i])) + alternate_input_ids[i].detach().numpy().tolist()
 alternate_input_ids = torch.tensor(alternate_input_ids)
-# %%
 
-    
 # %%
 def logit_accuracy(logits, patched_logits):
     next_token_logits = logits[:, -1, :]
@@ -167,7 +206,7 @@ alternate_logits, alternate_cache = runCacheActivationPatching(model, alternate_
 
 # %%
 import pickle
-with open(f'results/reasoning/combined/normalised_combined_matrix.pkl', 'rb') as f:
+with open(f'/home/t-josingh/How-To-Think-Step-by-Step/InformationFlow/result/combined/normalised_combined_matrix.pkl', 'rb') as f:
     patched_head = pickle.load(f)
 # patched_head = patched_head.detach().cpu().numpy()
 # %%
@@ -296,17 +335,17 @@ def storeHookCache(value, hook):
 count = 0
 list_fwd_hooks = []
 for layer in range(len(patched_head)):
-    for head in range(len(patched_head[layer])):
-        if(patched_head[layer][head] > threshold_range[1] or patched_head[layer][head] < threshold_range[0]):
-            continue
-        else:
-            list_fwd_hooks.append((utils.get_act_name("z", layer, "attn"), partial(patch_head_vector_avg, head_index=head, alternate_cache=alternate_cache)))
-#                 # print(layer,head)
-#                 # print(patched_head[layer][head])
-            count += 1
-        list_fwd_hooks.append((utils.get_act_name("pattern", layer, "attn"), storeHookCache))
-        list_fwd_hooks.append((utils.get_act_name("resid_pre", layer), storeHookCache))
-        list_fwd_hooks.append((utils.get_act_name("z", layer, "attn"), storeHookCache))
+#     for head in range(len(patched_head[layer])):
+#         if(patched_head[layer][head] > threshold_range[1] or patched_head[layer][head] < threshold_range[0]):
+#             continue
+#         else:
+#             list_fwd_hooks.append((utils.get_act_name("z", layer, "attn"), partial(patch_head_vector_avg, head_index=head, alternate_cache=alternate_cache)))
+# #                 # print(layer,head)
+# #                 # print(patched_head[layer][head])
+#             count += 1
+    list_fwd_hooks.append((utils.get_act_name("pattern", layer, "attn"), storeHookCache))
+    list_fwd_hooks.append((utils.get_act_name("resid_pre", layer), storeHookCache))
+    list_fwd_hooks.append((utils.get_act_name("z", layer, "attn"), storeHookCache))
 print(f'Heads with activation outside threshold range, {threshold_range}: {count}')
 print("Number of heads removed or patched: ", count)
 
